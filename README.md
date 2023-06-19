@@ -6,4 +6,4 @@
 
 # Installing/Usage:
 - For Simplicity sake I will be using a mixture of both [UML]([https://illusory.dev/index.html](https://github.com/RussellJerome/UnrealModLoader/releases/tag/v2.2.1)) and [UMU](https://illusory.dev/index.html).
-- Install both the Modified **dxgi.dll** and the **UnrealModUnlocker.dll** Using [UnrealModUnlocker](https://illusory.dev/index.html).
+- Install both the Modified **dxgi.dll** and the **UnrealModUnlocker.dll** Using [UMU](https://illusory.dev/index.html).
